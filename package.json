@@ -1,0 +1,22 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "primer uso del modulo http en node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlitzCode131/IntroduccionBackEnd.git"
+  },
+  "keywords": [
+    "HTTP"
+  ],
+  "author": "Luis Fernando Perez Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlitzCode131/IntroduccionBackEnd/issues"
+  },
+  "homepage": "https://github.com/BlitzCode131/IntroduccionBackEnd#readme"
+}
