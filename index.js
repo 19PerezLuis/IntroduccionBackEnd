@@ -11,7 +11,7 @@ const server = http.createServer((req,res)=>{
     //el servidor respondera con un texto plano
     res.setHeader('Content-Type','text/plain');
     //el servidor respondera el mensaje hola mundo
-    res.end('Hola mundo\n');
+    res.end('<h1>Hola mundo</h1>');
 });
 server.listen(port, hostname,()=>{
     console.log('El servidor se esta ejecutando en http://${hostname}:${port}/');
